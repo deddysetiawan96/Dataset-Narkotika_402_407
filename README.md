@@ -1,2 +1,2 @@
-# Inforamtion-Retrievel
+# Information-Retrievel
 Scraping 
